@@ -439,22 +439,6 @@
   dependencies:
     "@octokit/openapi-types" "^7.3.5"
 
-"@sushiswap/core-sdk@^1.0.0-canary.22":
-  version "1.0.0-canary.22"
-  resolved "https://registry.yarnpkg.com/@sushiswap/core-sdk/-/core-sdk-1.0.0-canary.22.tgz#d5e2d249413aaeb67e9d15f2d7949d1c8210cb61"
-  integrity sha512-xfp0cy2UDGzq4TvES1nW9BUKdeoRGWHmJ71ZNdarbcsxacUR+28NGn7u3VRjPlGUzeLo9HVx+/QoAHJIM4ZOFA==
-  dependencies:
-    "@ethersproject/address" "^5.4.0"
-    "@ethersproject/bignumber" "^5.4.0"
-    "@ethersproject/providers" "^5.4.0"
-    "@ethersproject/solidity" "^5.4.0"
-    big.js "^6.1.1"
-    decimal.js-light "^2.5.0"
-    jsbi "^4.1.0"
-    tiny-invariant "^1.1.0"
-    tiny-warning "^1.0.0"
-    toformat "^2.0.0"
-
 "@ungap/promise-all-settled@1.1.2":
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/@ungap/promise-all-settled/-/promise-all-settled-1.1.2.tgz#aa58042711d6e3275dd37dc597e5d31e8c290a44"
@@ -1289,6 +1273,22 @@ type-detect@^4.0.0, type-detect@^4.0.5:
   version "4.0.8"
   resolved "https://registry.yarnpkg.com/type-detect/-/type-detect-4.0.8.tgz#7646fb5f18871cfbb7749e69bd39a6388eb7450c"
   integrity sha512-0fr/mIH1dlO+x7TlcMy+bIDqKPsw/70tVyeHW787goQjhmqaZe10uwLujubK9q9Lg6Fiho1KUKDYz0Z7k7g5/g==
+
+ubuntucoresdk@^1.0.0-canary.66:
+  version "1.0.0-canary.66"
+  resolved "https://registry.yarnpkg.com/ubuntucoresdk/-/ubuntucoresdk-1.0.0-canary.66.tgz#daf94cab92a8fbc831097a548f25dea4c299990c"
+  integrity sha512-CqO4ZnzPKUe0tYVInZs+XIuUTo9Wb/z3kq7csWIbOvw0tm4YihPH1VuwVqhYMa0Jt5BNP3uKDBd8eq7R69LNRw==
+  dependencies:
+    "@ethersproject/address" "^5.4.0"
+    "@ethersproject/bignumber" "^5.4.0"
+    "@ethersproject/providers" "^5.4.0"
+    "@ethersproject/solidity" "^5.4.0"
+    big.js "^6.1.1"
+    decimal.js-light "^2.5.0"
+    jsbi "^4.1.0"
+    tiny-invariant "^1.1.0"
+    tiny-warning "^1.0.0"
+    toformat "^2.0.0"
 
 universal-user-agent@^6.0.0:
   version "6.0.0"
