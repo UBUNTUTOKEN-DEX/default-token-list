@@ -640,6 +640,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4.jpg"
   },
   {
+    "name": "Ubuntu",
+    "symbol": "UBUT",
+    "address": "0xd9fb586dbCd883D84a13acAb8A3875fb3B050841",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/UBUNTUTOKEN-DEX/icons/master/token/ubut.jpg"
+  },
+  {
     "name": "MacaronSwap Token",
     "symbol": "MCRN",
     "address": "0xacb2d47827C9813AE26De80965845D80935afd0B",
